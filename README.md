@@ -1,2 +1,3 @@
-yarn add express mongoose dotenv helmet morgan nodemon bcrypt
+## Paper Town - Backend
 
+Node JS implementation for the back-end implementation of the Paper Town social Appliction
